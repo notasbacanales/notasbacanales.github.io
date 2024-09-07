@@ -143,8 +143,9 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/index.html', 'Home', 'fa fa-home'),
+        # ('/archive.html', 'Archivos', 'fa fa-folder-open'),
+        ('/2024/', 'Archivos', 'fa fa-folder-open'),
         ('/categories/index.html', 'Ejes', 'fa fa-tags'),
-        ('/archive.html', 'Archivos', 'fa fa-folder-open'),
         ('https://radio.unsa.edu.ar/index.php/notas-bacanales', 'Programas', 'fa fa-play-circle'),
         ('/pages/sobre-notas-bacanales', 'Nosotrxs', 'fa fa-users'),
         ('https://instagram.com/notasbacanales', 'Instagram', 'fab fa-instagram'),
@@ -594,7 +595,7 @@ FRONT_INDEX_HEADER = {
 }
 
 # Create per-month archives instead of per-year
-# CREATE_MONTHLY_ARCHIVE = False
+CREATE_MONTHLY_ARCHIVE = True
 # Create one large archive instead of per-year
 # CREATE_SINGLE_ARCHIVE = False
 # Create year, month, and day archives each with a (long) list of posts
@@ -939,10 +940,10 @@ IMAGE_FOLDERS = {'images': 'images'}
 # FAVICONS contains (name, file, size) tuples.
 # Used to create favicon link like this:
 # <link rel="name" href="file" sizes="size"/>
-# FAVICONS = (
-#     ("icon", "/favicon.ico", "16x16"),
-#     ("icon", "/icon_128x128.png", "128x128"),
-# )
+FAVICONS = (
+    ("icon", "/assets/favicon.ico", ""),
+    # ("icon", "/icon_128x128.png", "128x128"),
+)
 
 # Show teasers (instead of full posts) in indexes? Defaults to False.
 # INDEX_TEASERS = False
@@ -1183,7 +1184,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 
 # Modify the number of Post per Index Page
 # Defaults to 10
-# INDEX_DISPLAY_POST_COUNT = 10
+INDEX_DISPLAY_POST_COUNT = 1
 
 # By default, Nikola generates RSS files for the website and for tags, and
 # links to it.  Set this to False to disable everything RSS-related.
