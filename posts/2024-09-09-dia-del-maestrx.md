@@ -1,7 +1,7 @@
 <!--
-.. title: 2024-09-09 - Antropología de la educación y día del maestrx.
+.. title: 2024-09-09. Antropología de la educación y día del maestrx.
 .. slug: 2024-09-09-dia-del-maestrx
-.. date: 2024-09-09 00:00:00 UTC-03:00
+.. date: 2024-09-07 00:00:00 UTC-03:00
 .. tags: Educación,
 .. link:
 .. description:

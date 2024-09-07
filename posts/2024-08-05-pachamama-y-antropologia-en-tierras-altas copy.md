@@ -1,5 +1,5 @@
 <!--
-.. title: 2024-08-05 - Pachamama y Antropologia en Tierras Altas
+.. title: 2024-08-05. Pachamama y Antropologia en Tierras Altas
 .. slug: 2024-08-05-pachamama-y-antropologia-en-tierras-altas
 .. date: 2024-08-05 00:00:00 UTC-03:00
 .. tags: Arqueología, Etnografía, Pachamama, Tierras altas

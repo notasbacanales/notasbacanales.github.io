@@ -1,5 +1,5 @@
 <!--
-.. title: 2024-09-02 - Antropomorfi
+.. title: 2024-09-02. Antropomorfi
 .. slug: 2024-09-02-antropomorfi
 .. date: 2024-09-02 00:00:00 UTC-03:00
 .. tags: Alimentación,
