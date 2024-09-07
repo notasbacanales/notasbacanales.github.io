@@ -9,14 +9,24 @@
 .. type: text
 -->
 
-Notas Bacanales inicia en 2016 en [Radio Universidad](https://radio.unsa.edu.ar/), centrado en la difusión de música latinoamericana influenciada por el jazz.
+> #### ¡Dato rápido! ¿Dónde les escucho?
+>
+> Los lunes de 20 a 21h
+>
+> - 🎧 [Por la web de Radio UNSa](https://radio.unsa.edu.ar/)
+> - 📹 [Por Twitch](https://radio.unsa.edu.ar/)
+> - 📻 O, si estás en Salta, sintonizá la 93.9
+>
+> - Para escuchar los programas anteriores [vení por aquí](https://radio.unsa.edu.ar/index.php/notas-bacanales)
 
-Tras un impass que arranco en 2020, en este año la propuesta que el equipo trae es brindarle a la sociedad radio-oyente salteña un acercamiento, siempre musicalizado por esta raíz primera, a la antropología.
+### ¿Qué es NB?
 
-Esta disciplina humanística, en tanto estudio de los humanos, atraviesa todos los aspectos de la sociedad. En este sentido, la propuesta del programa es tratar temas de actualidad, música, humor, etc... desde la mirada antropológica, llevando esta ciencia social a toda la comunidad, tanto universitaria, como el público en general. Acercando una herramienta que creemos necesaria para analizar, comprender y aprehender los
-contextos actuales y pasados.
+Notas Bacanales es un programa de radio que comenzó en 2016 en [Radio Universidad](https://radio.unsa.edu.ar/), centrado en la difusión de música latinoamericana influenciada por el jazz.
 
-Por otra parte, en el contexto histórico actual, las ciencias en general y las ciencias sociales en particular, vienen siendo menoscabadas y desprestigiadas por políticas y enfoques que únicamente consideran los réditos económicos inmediatos de todas las actividades.
+Tras un impasse que arrancó en 2020, este año el equipo regresa con una nueva propuesta para la audiencia salteña: un espacio que combina música, humor y actualidad desde una perspectiva antropológica, siempre con la música como eje central.
 
-Desde la Universidad pública, consideramos que un acercamiento ameno a las ciencias sociales que atraviese diversas temáticas, se torna de fundamental importancia, ya que no solo difunde los conocimientos generados en este medio, sino que, entre otras cosas, intentaremos mostrar que la utilidad del conocimiento implica mucho más que el rédito económico.
-En este sentido, nuestro principal objetivo es acercar a través de la música de temas de actualidad el aporte a los debates que viene dando la antropología.
+La antropología, como ciencia que estudia a los seres humanos en todas sus dimensiones, atraviesa todos los aspectos de la sociedad. El programa busca ofrecer una mirada antropológica sobre los temas del momento, conectando esta disciplina con la vida cotidiana y acercándola al público en general y a la comunidad universitaria en particular. Creemos que esta herramienta es clave para analizar, comprender y reflexionar sobre los contextos sociales actuales y pasados.
+
+En el contexto histórico actual, las ciencias —y en particular las ciencias sociales— han sido menospreciadas por políticas que priorizan los beneficios económicos inmediatos por sobre otros valores. Desde la universidad pública, consideramos fundamental ofrecer un acercamiento accesible y entretenido a las ciencias sociales. Este enfoque no solo promueve el conocimiento generado en el ámbito académico, sino que también busca demostrar que la utilidad del saber va mucho más allá de lo meramente económico.
+
+Nuestro principal objetivo es aportar al debate público desde la antropología, utilizando la música y la actualidad como puentes para conectar con la audiencia y enriquecer la comprensión de los temas que atraviesan nuestra sociedad.
