@@ -20,10 +20,10 @@ BLOG_AUTHOR = "Notas Bacanales"  # (translatable)
 BLOG_TITLE = "Notas Bacanales"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://mpvaldez.github.io/notas-bacanales/"
+SITE_URL = "https://notasbacanales.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://mpvaldez.github.io/notas-bacanales/"
+# BASE_URL = "https://notasbacanales.github.io/"
 BLOG_EMAIL = "notasbacanales@gmail.com"
 BLOG_DESCRIPTION = "Ciclo Notas de Campo. El programa de Antropología."  # (translatable)
 
