@@ -340,6 +340,7 @@ section {
   min-height: 100%;
   padding: 48px 0 60px 42px;
   margin-left: 180px;
+  width: 60%;
 }
 @media (min-width: 774px) and (max-width: 1047px) {
   .page-content {

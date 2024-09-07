@@ -146,7 +146,7 @@ NAVIGATION_LINKS = {
         ('/categories/index.html', 'Ejes', 'fa fa-tags'),
         ('/archive.html', 'Archivos', 'fa fa-folder-open'),
         ('https://radio.unsa.edu.ar/index.php/notas-bacanales', 'Programas', 'fa fa-play-circle'),
-        ('https://radio.unsa.edu.ar/index.php/notas-bacanales', 'Nosotrxs', 'fa fa-users'),
+        ('/pages/sobre-notas-bacanales', 'Nosotrxs', 'fa fa-users'),
         ('https://instagram.com/notasbacanales', 'Instagram', 'fab fa-instagram'),
     )
 }
@@ -685,7 +685,7 @@ REDIRECTIONS = []
 # For more details, read the manual:
 # https://getnikola.com/handbook.html#deploying-to-github
 # You will need to configure the deployment branch on GitHub.
-GITHUB_SOURCE_BRANCH = 'master'
+GITHUB_SOURCE_BRANCH = 'gh-pages'
 GITHUB_DEPLOY_BRANCH = 'src'
 
 # The name of the remote where you wish to push to, using github_deploy.
