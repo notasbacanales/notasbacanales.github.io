@@ -9,14 +9,13 @@
 .. type: text
 -->
 
-> #### ¡Dato rápido! ¿Dónde les escucho?
+> #### ¡Dato rápido!
 >
-> Los lunes de 20 a 21h
+> Escuchanos los lunes de 20 a 21h
 >
 > - 🎧 [Por la web de Radio UNSa](https://radio.unsa.edu.ar/)
 > - 📹 [Por Twitch](https://radio.unsa.edu.ar/)
 > - 📻 O, si estás en Salta, sintonizá la 93.9
->
 > - Para escuchar los programas anteriores [vení por aquí](https://radio.unsa.edu.ar/index.php/notas-bacanales)
 
 ### ¿Qué es NB?
