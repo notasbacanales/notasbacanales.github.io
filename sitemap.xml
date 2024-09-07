@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://mpvaldez.github.io/notas-bacanales/</loc>
-  <lastmod>2024-09-06T18:45:00Z</lastmod>
+  <lastmod>2024-09-07T13:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://mpvaldez.github.io/notas-bacanales/2024/</loc>
@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>https://mpvaldez.github.io/notas-bacanales/archive.html</loc>
-  <lastmod>2024-09-06T18:45:00Z</lastmod>
+  <lastmod>2024-09-07T13:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://mpvaldez.github.io/notas-bacanales/categories/</loc>
@@ -76,6 +76,14 @@
  <url>
   <loc>https://mpvaldez.github.io/notas-bacanales/categories/vial/</loc>
   <lastmod>2024-09-06T18:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mpvaldez.github.io/notas-bacanales/pages/nosotros/</loc>
+  <lastmod>2024-09-07T13:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mpvaldez.github.io/notas-bacanales/pages/sobre-notas-bacanales/</loc>
+  <lastmod>2024-09-07T13:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://mpvaldez.github.io/notas-bacanales/posts/2024-07-29-dia-del-antropologue-y-jjoo/</loc>
