@@ -1,4 +1,4 @@
-Sitemap: https://mpvaldez.github.io/notas-bacanales/sitemapindex.xml
+Sitemap: https://notasbacanales.github.io/sitemapindex.xml
 
 User-Agent: *
-Host: mpvaldez.github.io
+Host: notasbacanales.github.io
