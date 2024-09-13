@@ -139,7 +139,11 @@ lang="${lang}">
         % if rel_link(permalink, url) == "#":
             <li class="active"><a href="${permalink}" title="${text} ${messages("(active)", lang)}"><i class="${icon}"></i></a></li>
         % else:
+            % if url[0] == "/":
             <li><a href="${url}" title="${text}"><i class="${icon}"></i></a></li>
+            % else:
+            <li><a href="${url}" target="_blank" title="${text}"><i class="${icon}"></i></a></li>
+            % endif
         % endif
     %endfor
     ${template_hooks['menu']()}
