@@ -146,6 +146,7 @@ NAVIGATION_LINKS = {
         # ('/archive.html', 'Archivos', 'fa fa-folder-open'),
         ('/2024/', 'Archivos', 'fa fa-folder-open'),
         ('/categories/index.html', 'Ejes', 'fa fa-tags'),
+        ('/pages/diccionario', 'Diccionario', 'fa fa fa-file-word'),
         ('https://radio.unsa.edu.ar/index.php/notas-bacanales', 'Programas', 'fa fa-play-circle'),
         ('/pages/sobre-notas-bacanales', 'Nosotrxs', 'fa fa-users'),
         ('https://instagram.com/notasbacanales', 'Instagram', 'fab fa-instagram'),
@@ -1419,4 +1420,5 @@ WARN_ABOUT_TAG_METADATA = False
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered
 GLOBAL_CONTEXT_FILLER = []
+
 
