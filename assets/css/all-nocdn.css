@@ -969,7 +969,6 @@ section {
     display: flex;
     justify-content: space-between;
     padding-bottom: 0;
-    padding-left: 10px;
     padding-right: 10px;
   }
 }
