@@ -6,70 +6,6 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://notasbacanales.github.io/avergas/categories/alimentacion.xml</loc>
-  <lastmod>2024-09-13T15:39:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://notasbacanales.github.io/avergas/categories/argentina.xml</loc>
-  <lastmod>2024-09-13T15:39:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://notasbacanales.github.io/avergas/categories/arqueologia.xml</loc>
-  <lastmod>2024-09-13T15:39:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://notasbacanales.github.io/avergas/categories/celebraciones.xml</loc>
-  <lastmod>2024-09-13T15:39:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://notasbacanales.github.io/avergas/categories/educacion.xml</loc>
-  <lastmod>2024-09-13T15:39:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://notasbacanales.github.io/avergas/categories/etnografia.xml</loc>
-  <lastmod>2024-09-13T15:39:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://notasbacanales.github.io/avergas/categories/festivales.xml</loc>
-  <lastmod>2024-09-13T15:39:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://notasbacanales.github.io/avergas/categories/infancias.xml</loc>
-  <lastmod>2024-09-13T15:39:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://notasbacanales.github.io/avergas/categories/juegos-olimpicos.xml</loc>
-  <lastmod>2024-09-13T15:39:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://notasbacanales.github.io/avergas/categories/movilidad.xml</loc>
-  <lastmod>2024-09-13T15:39:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://notasbacanales.github.io/avergas/categories/pachamama.xml</loc>
-  <lastmod>2024-09-13T15:39:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://notasbacanales.github.io/avergas/categories/ritos.xml</loc>
-  <lastmod>2024-09-13T15:39:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://notasbacanales.github.io/avergas/categories/san-martin.xml</loc>
-  <lastmod>2024-09-13T15:39:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://notasbacanales.github.io/avergas/categories/tierras-altas.xml</loc>
-  <lastmod>2024-09-13T15:39:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://notasbacanales.github.io/avergas/categories/vial.xml</loc>
-  <lastmod>2024-09-13T15:39:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://notasbacanales.github.io/avergas/rss.xml</loc>
-  <lastmod>2024-09-13T15:39:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://notasbacanales.github.io/categories/alimentacion.xml</loc>
   <lastmod>2024-09-07T17:16:00Z</lastmod>
  </sitemap>
@@ -87,11 +23,15 @@
  </sitemap>
  <sitemap>
   <loc>https://notasbacanales.github.io/categories/educacion.xml</loc>
-  <lastmod>2024-09-07T17:16:00Z</lastmod>
+  <lastmod>2024-09-15T20:26:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://notasbacanales.github.io/categories/etiquetas.xml</loc>
+  <lastmod>2024-09-15T20:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://notasbacanales.github.io/categories/etnografia.xml</loc>
-  <lastmod>2024-09-07T17:16:00Z</lastmod>
+  <lastmod>2024-09-15T20:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://notasbacanales.github.io/categories/festivales.xml</loc>
@@ -107,15 +47,19 @@
  </sitemap>
  <sitemap>
   <loc>https://notasbacanales.github.io/categories/movilidad.xml</loc>
-  <lastmod>2024-09-07T17:16:00Z</lastmod>
+  <lastmod>2024-09-15T20:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://notasbacanales.github.io/categories/pachamama.xml</loc>
   <lastmod>2024-09-07T17:16:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://notasbacanales.github.io/categories/peregrinos.xml</loc>
+  <lastmod>2024-09-15T20:53:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://notasbacanales.github.io/categories/ritos.xml</loc>
-  <lastmod>2024-09-07T17:16:00Z</lastmod>
+  <lastmod>2024-09-15T20:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://notasbacanales.github.io/categories/san-martin.xml</loc>
@@ -131,10 +75,10 @@
  </sitemap>
  <sitemap>
   <loc>https://notasbacanales.github.io/rss.xml</loc>
-  <lastmod>2024-09-07T16:52:00Z</lastmod>
+  <lastmod>2024-09-15T20:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://notasbacanales.github.io/sitemap.xml</loc>
-  <lastmod>2024-09-13T16:05:00Z</lastmod>
+  <lastmod>2024-09-15T20:53:00Z</lastmod>
  </sitemap>
 </sitemapindex>

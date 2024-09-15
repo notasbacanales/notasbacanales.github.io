@@ -955,12 +955,22 @@ section {
   text-align: center;
   padding-bottom: 50px;
 }
+.navbar-mobile {
+  display: none;
+}
 @media (max-width: 773px) {
   .menu-social {
     padding: 10px 0;
   }  
   .on-air {
     display: none;
+  }
+  .navbar-mobile {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 0;
+    padding-left: 10px;
+    padding-right: 10px;
   }
 }
 @media (max-width: 773px) {

@@ -9,4 +9,6 @@
 .. type: text
 -->
 
-Para un poco
+## ⚒️ Sección en construcción.
+
+> Aguantá unos días y vas a tener el diccionario de términos antropológicos complejos bajados a tierra
