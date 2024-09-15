@@ -14,6 +14,12 @@ ${template_hooks['extra_head']()}
     <a href="#page-content" class="sr-only sr-only-focusable">${messages("Skip to main content")}</a>
     ${template_hooks['page_header']()}
     <section class="social">
+        <div class="navbar-mobile">
+            <a href="${abs_link(_link("root", None, lang))}">
+                <img src="${logo_url}" alt="${blog_title|h}" id="logo" style="height: 60px">
+            </a>
+            <img src="/assets/images/on-air.png" alt="${blog_title|h}" id="on-air" style="height: 40px">
+        </div>
         <ul class="menu-social">
         %if logo_url:
             <li>
@@ -25,7 +31,7 @@ ${template_hooks['extra_head']()}
         ${base.html_navigation_links()}
         </ul>
         <div class="on-air">
-            <img src="/assets/images/on-air.png" alt="${blog_title|h}" id="on-air" style="height: 50px">
+            <img src="/assets/images/on-air.png" alt="${blog_title|h}" id="on-air" style="height: 40px">
         </div>
     </section>
     <section class="page-content">
