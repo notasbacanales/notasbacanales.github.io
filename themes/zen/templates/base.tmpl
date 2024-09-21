@@ -23,15 +23,15 @@ ${template_hooks['extra_head']()}
             </a>            
             
         </div>
+        %if logo_url:
+            <div class="menu-logo">
+                <a href="/">
+                    <img src="${logo_url}" alt="${blog_title|h}" id="logo">
+                </a>
+            </div>
+        %endif
         <div class="menu-social">
             <ul>
-            %if logo_url:
-                <li class="menu-logo">
-                    <a href="/">
-                        <img src="${logo_url}" alt="${blog_title|h}" id="logo">
-                    </a>
-                </li>
-            %endif
             ${base.html_navigation_links()}
             </ul>
         </div>

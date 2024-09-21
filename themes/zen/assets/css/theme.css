@@ -273,6 +273,7 @@ section {
 }
 .menu-logo {
   display: block;
+  padding-top: 2rem;
 }
 @media (max-width: 773px) {
   .menu-social {
@@ -338,7 +339,7 @@ section {
     text-align: center;
     display: table-cell;
   }
-  .social ul li.menu-logo {
+  .menu-logo {
     display: none;
   }  
 }
