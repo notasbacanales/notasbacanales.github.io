@@ -1,5 +1,5 @@
 <!--
-.. title: 2024-08-26. Antropología Vial
+.. title: 🛣️ Antropología Vial
 .. slug: 2024-08-26-antropología-vial
 .. date: 2024-08-26 00:00:00 UTC-03:00
 .. tags: Vial, Movilidad

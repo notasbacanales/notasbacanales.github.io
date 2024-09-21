@@ -1,3 +1,6 @@
+.h-entry {
+  padding: 1rem;
+}
 .clearfix {
   *zoom: 1;
 }
@@ -259,7 +262,7 @@ section {
   height: 100vh; 
 }
 .menu-social {
-  padding: 50px 0;
+  text-align: center;
 }
 .on-air { 
   text-align: center;
@@ -268,9 +271,14 @@ section {
 .navbar-mobile {
   display: none;
 }
+.menu-logo {
+  display: block;
+}
 @media (max-width: 773px) {
   .menu-social {
-    padding: 10px 0;
+    width: 100%;
+    justify-content: center;
+    display: flex;
   }  
   .on-air {
     display: none;
@@ -278,14 +286,12 @@ section {
   .navbar-mobile {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding-bottom: 0;
     padding-right: 10px;
   }
-}
-@media (max-width: 773px) {
   .social {
     position: relative;
-    padding: 10px;
     height: initial;
   }
 }
@@ -311,7 +317,6 @@ section {
 }
 @media (max-width: 773px) {
   .social ul {
-    display: block;
     top: 0px;
   }
 }
@@ -328,10 +333,14 @@ section {
 @media (max-width: 773px) {
   .social ul li {
     padding-top: 5%;
-    padding-left: 1em;
-    text-align: left;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    text-align: center;
     display: table-cell;
   }
+  .social ul li.menu-logo {
+    display: none;
+  }  
 }
 .social ul li a {
   display: block;
@@ -690,7 +699,7 @@ a:focus {
   font-size: 26.25px;
 }
 .page-content {
-  font-family: "Bitter", "Georgia", "Times New Roman", serif;
+  font-family: "Comfortaa", "Georgia", "Times New Roman", serif;
 }
 .page-content > .content {
   text-rendering: optimizeLegibility;
@@ -980,6 +989,7 @@ pre.code {
 }
 article.post-text h1.entry-title {
   margin: 6px 0;
+  margin-top: 20px;
 }
 article.post-text h1.entry-title a {
   color: inherit;
@@ -1043,7 +1053,7 @@ article.post-text .metadata h3 {
 article.post-text .metadata .tags {
   clear: both;
   display: block;
-  opacity: 0.2;
+  opacity: 0.6;
   filter: alpha(opacity=20);
   -webkit-transition: opacity 0.1s linear;
   -moz-transition: opacity 0.1s linear;

@@ -1,5 +1,5 @@
 <!--
-.. title: 2024-07-29. Día del antropologue y JJOO
+.. title: 🤼🤼‍♀️ Día del antropologue y JJOO
 .. slug: 2024-07-29-dia-del-antropologue-y-jjoo
 .. date: 2024-07-29 00:00:00 UTC-03:00
 .. tags: Arqueología, Etnografía, Juegos Olímpicos, Celebraciones, Ritos, Festivales

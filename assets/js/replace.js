@@ -1,6 +1,6 @@
 // Array de pares de búsqueda y reemplazo
 const reemplazos = [
-    { buscar: /Etiquetas/g, reemplazar: 'Programas por tema' },
+    { buscar: /Etiquetas/g, reemplazar: 'Temas' },
     { buscar: /Publicaciones/g, reemplazar: 'Programas' },
     { buscar: /Posts/g, reemplazar: 'Programas' },
 ];
@@ -8,6 +8,17 @@ const reemplazos = [
 // Función para reemplazar texto solo en elementos h1
 function reemplazarTextoEnH1() {
     const elementosH1 = document.querySelectorAll('h1');
+    elementosH1.forEach(h1 => {
+        let texto = h1.textContent;
+        reemplazos.forEach(({ buscar, reemplazar }) => {
+            texto = texto.replace(buscar, reemplazar);
+        });
+        h1.textContent = texto;
+    });
+}
+// Función para reemplazar texto solo en elementos h3
+function reemplazarTextoEnH1() {
+    const elementosH1 = document.querySelectorAll('h3');
     elementosH1.forEach(h1 => {
         let texto = h1.textContent;
         reemplazos.forEach(({ buscar, reemplazar }) => {
