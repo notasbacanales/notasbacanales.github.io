@@ -1702,8 +1702,6 @@ article.post-text .backlink + h1.title {
 article.post-text .metadata {
   *zoom: 1;
   color: #999;
-  margin-bottom: 12px;
-  margin-top: -6px;
 }
 article.post-text .metadata:before,
 article.post-text .metadata:after {
