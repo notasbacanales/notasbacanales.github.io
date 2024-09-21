@@ -2,7 +2,7 @@
 .. title: 2024-08-19. Antropoinfancias
 .. slug: 2024-08-19-antropoinfancias
 .. date: 2024-08-19 00:00:00 UTC-03:00
-.. tags: Arqueología, Infancias, San Martin, Argentina
+.. tags: Arqueología, Infancias, San Martin, Historia Argentina
 .. link:
 .. description:
 .. type: text
