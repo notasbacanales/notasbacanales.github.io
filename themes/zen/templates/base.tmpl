@@ -15,21 +15,26 @@ ${template_hooks['extra_head']()}
     ${template_hooks['page_header']()}
     <section class="social">
         <div class="navbar-mobile">
-            <a href="${abs_link(_link("root", None, lang))}">
+            <a href="/">
                 <img src="${logo_url}" alt="${blog_title|h}" id="logo" style="height: 60px">
             </a>
-            <img src="/assets/images/on-air.png" alt="${blog_title|h}" id="on-air" style="height: 40px">
+            <a href="/">
+                <img src="/assets/images/on-air.png" alt="${blog_title|h}" id="on-air" style="height: 40px">
+            </a>            
+            
         </div>
-        <ul class="menu-social">
-        %if logo_url:
-            <li>
-                <a href="${abs_link(_link("root", None, lang))}">
-                    <img src="${logo_url}" alt="${blog_title|h}" id="logo">
-                </a>
-            </li>
-        %endif
-        ${base.html_navigation_links()}
-        </ul>
+        <div class="menu-social">
+            <ul>
+            %if logo_url:
+                <li class="menu-logo">
+                    <a href="/">
+                        <img src="${logo_url}" alt="${blog_title|h}" id="logo">
+                    </a>
+                </li>
+            %endif
+            ${base.html_navigation_links()}
+            </ul>
+        </div>
         <div class="on-air">
             <img src="/assets/images/on-air.png" alt="${blog_title|h}" id="on-air" style="height: 40px">
         </div>

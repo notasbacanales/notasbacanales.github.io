@@ -1,5 +1,5 @@
 <!--
-.. title: 2024-09-16. El Milagro de la Antropología.
+.. title: ✝️ El Milagro de la Antropología.
 .. slug: 2024-09-16-el-milagro-de-la-antropologia
 .. date: 2024-09-15 00:00:00 UTC-03:00
 .. tags: Ritos, Etnografía, Peregrinos, Movilidad
