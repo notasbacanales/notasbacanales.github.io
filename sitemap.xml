@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://notasbacanales.github.io/</loc>
-  <lastmod>2024-09-15T20:26:00Z</lastmod>
+  <lastmod>2024-09-21T20:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://notasbacanales.github.io/2024/</loc>
@@ -27,11 +27,11 @@
  </url>
  <url>
   <loc>https://notasbacanales.github.io/archive.html</loc>
-  <lastmod>2024-09-15T20:46:00Z</lastmod>
+  <lastmod>2024-09-21T20:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://notasbacanales.github.io/categories/</loc>
-  <lastmod>2024-09-15T20:55:00Z</lastmod>
+  <lastmod>2024-09-21T20:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://notasbacanales.github.io/categories/alimentacion/</loc>
@@ -50,8 +50,16 @@
   <lastmod>2024-09-06T18:45:00Z</lastmod>
  </url>
  <url>
+  <loc>https://notasbacanales.github.io/categories/derecho-a-la-educacion/</loc>
+  <lastmod>2024-09-21T20:05:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://notasbacanales.github.io/categories/educacion/</loc>
   <lastmod>2024-09-07T16:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://notasbacanales.github.io/categories/estudiantes/</loc>
+  <lastmod>2024-09-21T20:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://notasbacanales.github.io/categories/etnografia/</loc>
@@ -60,6 +68,10 @@
  <url>
   <loc>https://notasbacanales.github.io/categories/festivales/</loc>
   <lastmod>2024-09-06T18:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://notasbacanales.github.io/categories/historia-argentina/</loc>
+  <lastmod>2024-09-21T20:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://notasbacanales.github.io/categories/infancias/</loc>
@@ -80,6 +92,10 @@
  <url>
   <loc>https://notasbacanales.github.io/categories/peregrinos/</loc>
   <lastmod>2024-09-15T20:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://notasbacanales.github.io/categories/primavera/</loc>
+  <lastmod>2024-09-21T20:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://notasbacanales.github.io/categories/ritos/</loc>
@@ -107,7 +123,7 @@
  </url>
  <url>
   <loc>https://notasbacanales.github.io/index-3.html</loc>
-  <lastmod>2024-09-15T20:46:00Z</lastmod>
+  <lastmod>2024-09-21T20:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://notasbacanales.github.io/index-4.html</loc>
@@ -119,7 +135,11 @@
  </url>
  <url>
   <loc>https://notasbacanales.github.io/index-6.html</loc>
-  <lastmod>2024-09-15T20:46:00Z</lastmod>
+  <lastmod>2024-09-21T20:05:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://notasbacanales.github.io/index-7.html</loc>
+  <lastmod>2024-09-21T20:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://notasbacanales.github.io/pages/diccionario/</loc>
@@ -156,5 +176,9 @@
  <url>
   <loc>https://notasbacanales.github.io/posts/2024-09-16-el-milagro-de-la-antropologia/</loc>
   <lastmod>2024-09-15T20:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://notasbacanales.github.io/posts/2024-09-23-primavera-estudiantil/</loc>
+  <lastmod>2024-09-21T20:05:00Z</lastmod>
  </url>
 </urlset>
