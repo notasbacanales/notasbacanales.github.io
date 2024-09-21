@@ -42,17 +42,10 @@
 </%def>
 
 <%def name="html_post_header()">
-    <header>
+    <header class="pb-1">
         ${html_title()}
         <div class="metadata">
             <p class="dateline"><a href="${post.permalink()}" rel="bookmark"><i class="fa fa-clock"></i> <time class="published dt-published" datetime="${post.formatted_date('webiso')}" itemprop="datePublished" title="${post.formatted_date(date_format)|h}">${post.formatted_date(date_format)|h}</time></a></p>
-            <p class="byline author vcard"> <i class="fa fa-user"></i> <span class="byline-name fn" itemprop="author">
-                % if author_pages_generated:
-                    <a href="${_link('author', post.author())}">${post.author()|h}</a>
-                % else:
-                    ${post.author()|h}
-                % endif
-            </span></p>
             % if not post.meta('nocomments') and site_has_comments:
                 <p class="commentline"><i class="far fa-comment"></i>${comments.comment_link(post.permalink(), post._base_path)}
             % endif
