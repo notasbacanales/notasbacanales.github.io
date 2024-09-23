@@ -6,20 +6,9 @@ const reemplazos = [
 ];
 
 // Función para reemplazar texto solo en elementos h1
-function reemplazarTextoEnH1() {
-    const elementosH1 = document.querySelectorAll('h1');
-    elementosH1.forEach(h1 => {
-        let texto = h1.textContent;
-        reemplazos.forEach(({ buscar, reemplazar }) => {
-            texto = texto.replace(buscar, reemplazar);
-        });
-        h1.textContent = texto;
-    });
-}
-// Función para reemplazar texto solo en elementos h3
-function reemplazarTextoEnH1() {
-    const elementosH1 = document.querySelectorAll('h3');
-    elementosH1.forEach(h1 => {
+function reemplazarTextoEn(donde) {
+    const elementos = document.querySelectorAll(donde);
+    elementos.forEach(h1 => {
         let texto = h1.textContent;
         reemplazos.forEach(({ buscar, reemplazar }) => {
             texto = texto.replace(buscar, reemplazar);
@@ -30,5 +19,6 @@ function reemplazarTextoEnH1() {
 
 // Inicia el reemplazo en los elementos h1 al cargar el DOM
 document.addEventListener('DOMContentLoaded', () => {
-    reemplazarTextoEnH1();
+    reemplazarTextoEn('h1');
+    reemplazarTextoEn('h3');
 });
