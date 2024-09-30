@@ -14,20 +14,28 @@
   <lastmod>2024-09-21T20:45:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://notasbacanales.github.io/categories/belleza.xml</loc>
+  <lastmod>2024-09-30T13:33:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://notasbacanales.github.io/categories/celebraciones.xml</loc>
   <lastmod>2024-09-21T20:45:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://notasbacanales.github.io/categories/derecho-a-la-educacion.xml</loc>
-  <lastmod>2024-09-21T20:45:00Z</lastmod>
+  <lastmod>2024-09-23T13:24:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://notasbacanales.github.io/categories/educacion.xml</loc>
-  <lastmod>2024-09-21T20:45:00Z</lastmod>
+  <lastmod>2024-09-23T13:24:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://notasbacanales.github.io/categories/estetica.xml</loc>
+  <lastmod>2024-09-30T13:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://notasbacanales.github.io/categories/estudiantes.xml</loc>
-  <lastmod>2024-09-21T20:45:00Z</lastmod>
+  <lastmod>2024-09-23T13:24:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://notasbacanales.github.io/categories/etnografia.xml</loc>
@@ -39,7 +47,7 @@
  </sitemap>
  <sitemap>
   <loc>https://notasbacanales.github.io/categories/historia-argentina.xml</loc>
-  <lastmod>2024-09-21T20:45:00Z</lastmod>
+  <lastmod>2024-09-23T13:24:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://notasbacanales.github.io/categories/infancias.xml</loc>
@@ -63,7 +71,7 @@
  </sitemap>
  <sitemap>
   <loc>https://notasbacanales.github.io/categories/primavera.xml</loc>
-  <lastmod>2024-09-21T20:45:00Z</lastmod>
+  <lastmod>2024-09-23T13:24:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://notasbacanales.github.io/categories/ritos.xml</loc>
@@ -83,10 +91,10 @@
  </sitemap>
  <sitemap>
   <loc>https://notasbacanales.github.io/rss.xml</loc>
-  <lastmod>2024-09-21T20:45:00Z</lastmod>
+  <lastmod>2024-09-30T13:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://notasbacanales.github.io/sitemap.xml</loc>
-  <lastmod>2024-09-21T21:42:00Z</lastmod>
+  <lastmod>2024-09-30T13:33:00Z</lastmod>
  </sitemap>
 </sitemapindex>

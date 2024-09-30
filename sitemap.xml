@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://notasbacanales.github.io/</loc>
-  <lastmod>2024-09-21T20:05:00Z</lastmod>
+  <lastmod>2024-09-30T13:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://notasbacanales.github.io/2024/</loc>
@@ -27,11 +27,11 @@
  </url>
  <url>
   <loc>https://notasbacanales.github.io/archive.html</loc>
-  <lastmod>2024-09-21T21:16:00Z</lastmod>
+  <lastmod>2024-09-30T13:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://notasbacanales.github.io/categories/</loc>
-  <lastmod>2024-09-21T20:05:00Z</lastmod>
+  <lastmod>2024-09-30T13:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://notasbacanales.github.io/categories/alimentacion/</loc>
@@ -40,6 +40,10 @@
  <url>
   <loc>https://notasbacanales.github.io/categories/arqueologia/</loc>
   <lastmod>2024-09-07T17:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://notasbacanales.github.io/categories/belleza/</loc>
+  <lastmod>2024-09-30T13:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://notasbacanales.github.io/categories/celebraciones/</loc>
@@ -52,6 +56,10 @@
  <url>
   <loc>https://notasbacanales.github.io/categories/educacion/</loc>
   <lastmod>2024-09-07T16:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://notasbacanales.github.io/categories/estetica/</loc>
+  <lastmod>2024-09-30T13:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://notasbacanales.github.io/categories/estudiantes/</loc>
@@ -135,7 +143,11 @@
  </url>
  <url>
   <loc>https://notasbacanales.github.io/index-7.html</loc>
-  <lastmod>2024-09-21T21:42:00Z</lastmod>
+  <lastmod>2024-09-30T13:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://notasbacanales.github.io/index-8.html</loc>
+  <lastmod>2024-09-30T13:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://notasbacanales.github.io/pages/diccionario/</loc>
@@ -176,5 +188,9 @@
  <url>
   <loc>https://notasbacanales.github.io/posts/2024-09-23-primavera-estudiantil/</loc>
   <lastmod>2024-09-21T20:05:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://notasbacanales.github.io/posts/2024-09-30-la-nina-bonita/</loc>
+  <lastmod>2024-09-30T13:33:00Z</lastmod>
  </url>
 </urlset>
