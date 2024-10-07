@@ -10,6 +10,10 @@
   <lastmod>2024-09-21T20:45:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://notasbacanales.github.io/categories/animales.xml</loc>
+  <lastmod>2024-10-07T18:52:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://notasbacanales.github.io/categories/arqueologia.xml</loc>
   <lastmod>2024-09-21T20:45:00Z</lastmod>
  </sitemap>
@@ -24,6 +28,10 @@
  <sitemap>
   <loc>https://notasbacanales.github.io/categories/derecho-a-la-educacion.xml</loc>
   <lastmod>2024-09-23T13:24:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://notasbacanales.github.io/categories/domesticacion.xml</loc>
+  <lastmod>2024-10-07T18:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://notasbacanales.github.io/categories/educacion.xml</loc>
@@ -70,6 +78,10 @@
   <lastmod>2024-09-21T20:45:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://notasbacanales.github.io/categories/plantas.xml</loc>
+  <lastmod>2024-10-07T18:52:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://notasbacanales.github.io/categories/primavera.xml</loc>
   <lastmod>2024-09-23T13:24:00Z</lastmod>
  </sitemap>
@@ -91,10 +103,10 @@
  </sitemap>
  <sitemap>
   <loc>https://notasbacanales.github.io/rss.xml</loc>
-  <lastmod>2024-09-30T13:33:00Z</lastmod>
+  <lastmod>2024-10-07T18:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://notasbacanales.github.io/sitemap.xml</loc>
-  <lastmod>2024-09-30T13:33:00Z</lastmod>
+  <lastmod>2024-10-07T18:52:00Z</lastmod>
  </sitemap>
 </sitemapindex>

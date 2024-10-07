@@ -7,11 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://notasbacanales.github.io/</loc>
-  <lastmod>2024-09-30T13:33:00Z</lastmod>
+  <lastmod>2024-10-07T18:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://notasbacanales.github.io/2024/</loc>
-  <lastmod>2024-09-07T16:23:00Z</lastmod>
+  <lastmod>2024-10-07T18:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://notasbacanales.github.io/2024/07/</loc>
@@ -26,16 +26,24 @@
   <lastmod>2024-09-07T16:29:00Z</lastmod>
  </url>
  <url>
+  <loc>https://notasbacanales.github.io/2024/10/</loc>
+  <lastmod>2024-10-07T18:52:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://notasbacanales.github.io/archive.html</loc>
-  <lastmod>2024-09-30T13:33:00Z</lastmod>
+  <lastmod>2024-10-07T18:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://notasbacanales.github.io/categories/</loc>
-  <lastmod>2024-09-30T13:33:00Z</lastmod>
+  <lastmod>2024-10-07T18:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://notasbacanales.github.io/categories/alimentacion/</loc>
   <lastmod>2024-09-06T18:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://notasbacanales.github.io/categories/animales/</loc>
+  <lastmod>2024-10-07T18:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://notasbacanales.github.io/categories/arqueologia/</loc>
@@ -52,6 +60,10 @@
  <url>
   <loc>https://notasbacanales.github.io/categories/derecho-a-la-educacion/</loc>
   <lastmod>2024-09-21T20:05:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://notasbacanales.github.io/categories/domesticacion/</loc>
+  <lastmod>2024-10-07T18:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://notasbacanales.github.io/categories/educacion/</loc>
@@ -96,6 +108,10 @@
  <url>
   <loc>https://notasbacanales.github.io/categories/peregrinos/</loc>
   <lastmod>2024-09-15T20:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://notasbacanales.github.io/categories/plantas/</loc>
+  <lastmod>2024-10-07T18:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://notasbacanales.github.io/categories/primavera/</loc>
@@ -147,7 +163,11 @@
  </url>
  <url>
   <loc>https://notasbacanales.github.io/index-8.html</loc>
-  <lastmod>2024-09-30T13:33:00Z</lastmod>
+  <lastmod>2024-10-07T18:52:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://notasbacanales.github.io/index-9.html</loc>
+  <lastmod>2024-10-07T18:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://notasbacanales.github.io/pages/diccionario/</loc>
@@ -192,5 +212,9 @@
  <url>
   <loc>https://notasbacanales.github.io/posts/2024-09-30-la-nina-bonita/</loc>
   <lastmod>2024-09-30T13:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://notasbacanales.github.io/posts/2024-10-07-domesticadxs/</loc>
+  <lastmod>2024-10-07T18:52:00Z</lastmod>
  </url>
 </urlset>
